@@ -1,0 +1,1 @@
+echo -n 0084 | sha256sum > hash_output.txt
